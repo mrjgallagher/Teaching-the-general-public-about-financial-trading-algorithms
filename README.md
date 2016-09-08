@@ -1,6 +1,8 @@
 # Teaching the general public about financial trading algorithms.
 
-The aim of this project was to create in interactive tool to teach users about two financial trading algorithms. The Project set out to :
+The aim of this project was to create in interactive tool to teach users about two financial trading algorithms. 
+
+The Project set out to :
 
 Teach users the challenges that these algorithms are designed to tackle.
 Teach users some technically terminology related to the field.
