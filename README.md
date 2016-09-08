@@ -5,8 +5,11 @@ The aim of this project was to create in interactive tool to teach users about t
 The Project set out to :
 
 Teach users the challenges that these algorithms are designed to tackle.
+
 Teach users some technically terminology related to the field.
+
 Provide a working example of the two trading algorithms for the users to operate.
+
 Teach users about the code implementation of these algorithms .
 
 The project also let users create and upload their own algorithms (in the for of a .jar file) to run and compare against those provide by system.
