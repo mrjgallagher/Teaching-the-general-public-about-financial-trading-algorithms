@@ -13,4 +13,4 @@ Teach users about the code implementation of these algorithms .
 The project also let users create and upload their own algorithms (in the for of a .jar file) to run and compare against those provide by system.
 
 This Web application was built using the Java Play framework/ PostgresDb and practical use of numerous client side 
-technologies.Please check out the Powerpoint for a quick overview ! 
+technologies. Please check out the Powerpoint for a quick overview ! 
