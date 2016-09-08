@@ -1,13 +1,15 @@
 # Teaching the general public about financial trading algorithms.
 
-Aim : Create in interactive tool to teach user about two selected financial trading algorithms.
+The aim of this project was to create in interactive tool to teach users about two financial trading algorithms. The Project set out to :
 
-Teach users how to operation two trading algorithms.
 Teach users the challenges that these algorithms are designed to tackle.
+Teach users some technically terminology related to the field.
+Provide a working example of the two trading algorithms for the users to operate.
 Teach users about the code implementation of these algorithms .
-Teach users technically terminology related to the field.
-Let users create and add their own algorithms to the teaching tool.
 
+The project also let users create and upload their own algorithms (in the for of a .jar file) to run and compare against those provide by system.
 
-Web application was built using a : PostGres Database/ Play framework web server and practical use of numerous client side 
-technologies promoting the use of interactive learning environments
+This Web application was built using the Java Play framework/ PostgresDb and practical use of numerous client side 
+technologies.
+
+Please check out the Powerpoint for a quick overview ! 
