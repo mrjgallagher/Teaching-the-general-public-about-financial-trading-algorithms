@@ -9,4 +9,4 @@ The aim of this project was to create an interactive tool to teach users about t
 
 The project also let users create and upload their own algorithms (as a .jar file) to run and compare against those provided by system.
 
-This Web application was built using the Java Play framework/ PostgresDb and practical use of a few javascript libraries. Check out the Powerpoint slides for a quick overview !
+This Web application was built using the Play framework, PostgresDb and practical use of a few javascript libraries. Check out the Powerpoint slides for a quick overview !
