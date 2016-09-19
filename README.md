@@ -7,7 +7,6 @@ The aim of this project was to create in interactive tool to teach users about t
 - Provide a working example of the two trading algorithms for the users to operate.
 - Teach users about the code implementation of these algorithms .
 
-The project also let users create and upload their own algorithms (in the for of a .jar file) to run and compare against those provide by system.
+The project also let users create and upload their own algorithms (as a .jar file) to run and compare against those provided by system.
 
-This Web application was built using the Java Play framework/ PostgresDb and practical use of numerous client side 
-technologies. Please check out the Powerpoint for a quick overview ! 
+This Web application was built using the Java Play framework/ PostgresDb and practical use of a few javascript libraries. Check out the Powerpoint slides for a quick overview !
